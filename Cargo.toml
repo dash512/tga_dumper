@@ -1,0 +1,7 @@
+[package]
+name = "tga_dumper"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+Ferrisouls = { version = "0.1.0", path = "../Ferrisouls" }
